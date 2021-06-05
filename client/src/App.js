@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Henry Pokemon - Rama desde espejo - CambioMaxi</h1>
+      <h1>Henry Pokemon - Rama desde espejo - CambioMaxi - Cambio Nico</h1>
     </div>
   );
 }
